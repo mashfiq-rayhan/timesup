@@ -1,4 +1,4 @@
-# Timer Challenge — Refs Playground Game ⏱️🎯
+# 🎯 Timer Challenge — Refs Playground Game ⏱️
 
 A small, addictive timing game built with React + Vite. Start a challenge and try to stop the timer as close to 0.00s as possible — but don't let it hit zero, or you lose! 🎮
 
